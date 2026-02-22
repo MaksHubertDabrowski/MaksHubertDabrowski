@@ -1,16 +1,40 @@
-## Hi there 👋
+### Hi, I'm Maks 👋
 
-<!--
-**MaksHubertDabrowski/MaksHubertDabrowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 3rd-year Geoinformatics student at UMCS with a strong interest in GIS. 
 
-Here are some ideas to get you started:
+Most of my focus right now is on spatial data processing and ETL workflows. I really enjoy working with **FME** to transform, clean, and structure raw spatial datasets into something more manageable and useful. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm constantly learning and trying to improve my skills in data integration and geographic analysis. 
+
+**Currently exploring:**
+* Practical applications of FME for spatial data transformations.
+* Improving my workflows for handling various GIS data formats.
+
+Feel free to reach out if you want to chat about GIS, student projects, or spatial data processing!
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ArcGIS_Pro-004F84?style=for-the-badge&logo=arcgis&logoColor=white" alt="arcgis pro badge" />
+  <img src="https://img.shields.io/badge/FME-E34234?style=for-the-badge&logo=safe&logoColor=white" alt="fme badge" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="qgis badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python badge" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MaksHubertDabrowski&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MaksHubertDabrowski/MaksHubertDabrowski/output/pacman-contribution-graph.svg" alt="pacman contribution graph" />
+</div>
